@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "oklabs_server",
+  "version": "1.0.0",
+  "description": "THis will create a nodejs backer server",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anildalar/11July2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anildalar/11July2022/issues"
+  },
+  "homepage": "https://github.com/anildalar/11July2022#readme"
+}
